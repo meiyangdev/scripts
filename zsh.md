@@ -1,0 +1,4 @@
+refresh shrc
+```
+source ~/.zshrc
+```
